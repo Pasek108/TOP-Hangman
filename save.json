@@ -1,1 +1,1 @@
-{"secret_word":"cancelled","wrong_tries":0,"guesses":[{"letter":"a","correct":true}]}
+{"secret_word":"trains","wrong_tries":4,"guesses":[{"letter":"o","correct":false},{"letter":"u","correct":false},{"letter":"e","correct":false},{"letter":"a","correct":true},{"letter":"b","correct":false},{"letter":"i","correct":true},{"letter":"r","correct":true}]}
