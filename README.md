@@ -99,6 +99,7 @@ The player must continue guessing letters to reveal the hidden word. After each 
 - The hangman drawing updates to show how many mistakes remain.  
 - Already guessed letters are displayed—**green** for correct, **red** for incorrect.  
 - The word is shown with correctly guessed letters in place.  
+
 ![game](/_for_readme/UI/game.png)
 
 If the user input is invalid (e.g., non-letter characters, multiple letters), it is ignored until a valid letter is entered. If a full word is entered, only the first letter is taken.  
