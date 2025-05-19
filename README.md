@@ -59,14 +59,11 @@ Programs:
 
 ## Features
 ### Project requirements
-✅ Load the `google-10000-english-no-swears.txt` dictionary.  
-✅ Randomly select a secret word (5–12 characters) when a new game starts.  
-✅ Display remaining incorrect guesses allowed and show current word progress (e.g., `_ r o g r a _ _ i n g`).  
-✅ Track and display letters already guessed (both correct and incorrect).  
-✅ Allow the player to guess one letter per turn (case‑insensitive) and update the display accordingly.  
-✅ End the game with a win if the word is guessed or a loss if guesses run out.  
-✅ Provide an option at the start of any turn to save the game state (serialize objects).  
-✅ On program launch, offer the player the choice to load a saved game and resume from that point.  
+✅ Load dictionary and pick a random 5–12 letter word  
+✅ Show word progress, remaining guesses, and guessed letters  
+✅ One case-insensitive letter guess per turn  
+✅ Win by guessing the word; lose after 10 wrong guesses  
+✅ Option to save and load game state  
 
 ### Additions
 - Drawing hangman stick figure using ASCII characters
