@@ -59,11 +59,11 @@ Programs:
 
 ## Features
 ### Project requirements
-✅ Load dictionary and pick a random 5–12 letter word  
-✅ Show word progress, remaining guesses, and guessed letters  
-✅ One case-insensitive letter guess per turn  
-✅ Win by guessing the word; lose after 10 wrong guesses  
-✅ Option to save and load game state  
+- ✅ Load dictionary and pick a random 5–12 letter word  
+- ✅ Show word progress, remaining guesses, and guessed letters  
+- ✅ One case-insensitive letter guess per turn  
+- ✅ Win by guessing the word; lose after 10 wrong guesses  
+- ✅ Option to save and load game state  
 
 ### Additions
 - Drawing hangman stick figure using ASCII characters
